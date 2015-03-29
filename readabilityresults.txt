@@ -1,0 +1,110 @@
+File1
+
+    public static void main(String[] args)
+0.93589776
+
+    public static void countWordsViaGUI() {
+0.003984835464507341
+
+    private static ArrayList<String> countWordsWithArrayList(Scanner fileScanner)
+0.9288684129714966
+
+    private static Map<String, Integer> countWordsWithMap(Scanner fileScanner) {
+0.8473656177520752
+
+    private static void showWords(ArrayList<String> words, int numWordsToShow) {
+0.0022277398966252804
+
+    private static void showWords(Map<String, Integer> words, int numWordsToShow)
+0.9964991807937622
+
+    private static void performExp() {
+0.0035532864276319742
+
+    private static void timingExpWithMap(String[] titles, int numExp) {
+0.004112073220312595
+
+    private static void timingExpWithArrayList(String[] titles, int numExp) {
+0.0014070713659748435
+
+    private static void setLookAndFeel() {
+0.320211261510849
+
+    private static File getFile() {
+0.35052794218063354
+
+
+
+File2
+
+    public static void main(String[] pArgs) throws IOException
+0.4977514445781708
+
+    public static void printgrid(int[][] aGrid)
+0.016681011766195297
+
+    public static void checkmove(int[][] aGrid)
+0.0
+
+    public static void GameOverProc()
+0.8457080721855164
+
+   public static void ComputerMove()
+0.619964063167572
+
+    public static void GetMove() throws IOException
+0.21202540397644043
+
+        public static boolean FindY(int X)
+0.542833685874939
+
+
+
+File3
+
+    public static void show(boolean[][] grid){
+0.6924936771392822
+
+    public static boolean[][] gen(){
+0.10178811848163605
+
+    public static void main(String[] args){
+0.06264586001634598
+
+    public static boolean[][] nextGen(boolean[][] world){
+0.0139665137976408
+
+    public static boolean occupiedNext(int numNeighbors, boolean occupied){
+0.21984076499938965
+
+    private static int numNeighbors(boolean[][] world, int row, int col) {
+0.04115612059831619
+
+    private static boolean inbounds(boolean[][] world, int r, int c) {
+0.013533738441765308
+
+
+
+File4
+
+    public static void main(String[] pArgs) throws IOException
+0.007203826680779457
+
+    public static void printgrid(int[][] aGrid)
+0.02190493606030941
+
+    public static void checkmove(int[][] aGrid)
+0.0
+
+    public static boolean OverlapError(int[][] aGrid, int X,int Y)
+0.59186851978302
+
+    public static void GameOverProc()
+0.8457080721855164
+
+
+
+File5
+
+   public static void main(String[] pArgs) throws IOException
+0.19647566974163055

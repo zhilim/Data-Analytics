@@ -1,0 +1,112 @@
+Cyclomatic Complexity
+
+File 1
+
+ public static void main(String[] args)
+1
+
+    public static void countWordsViaGUI() {
+3
+
+    private static ArrayList<String> countWordsWithArrayList(Scanner fileScanner)
+1
+
+    private static Map<String, Integer> countWordsWithMap(Scanner fileScanner) {
+1
+
+    private static void showWords(ArrayList<String> words, int numWordsToShow) {
+3
+
+    private static void showWords(Map<String, Integer> words, int numWordsToShow)
+1
+
+    private static void performExp() {
+1
+
+    private static void timingExpWithMap(String[] titles, int numExp) {
+4
+
+    private static void timingExpWithArrayList(String[] titles, int numExp) {
+5
+
+    private static void setLookAndFeel() {
+2
+
+    private static File getFile() {
+2
+
+
+
+File2
+
+    public static void main(String[] pArgs) throws IOException 26 - 79
+9
+
+    public static void printgrid(int[][] aGrid) 82 - 102
+5
+
+    public static void checkmove(int[][] aGrid) 105 - 170
+21
+
+    public static void GameOverProc() 174 - 177
+1
+
+   public static void ComputerMove() 181 - 188
+3
+
+    public static void GetMove() throws IOException 191 - 218
+6
+
+        public static boolean FindY(int X) 221- 246
+4
+
+
+
+File3
+
+    public static void show(boolean[][] grid){ 4 - 15
+2
+
+    public static boolean[][] gen(){ 17 - 24
+4
+
+    public static void main(String[] args){ 26 - 39
+2
+
+    public static boolean[][] nextGen(boolean[][] world){ 41 - 53
+4
+
+    public static boolean occupiedNext(int numNeighbors, boolean occupied){ 55 - 62
+6
+
+    private static int numNeighbors(boolean[][] world, int row, int col) { 64 - 72
+5
+
+    private static boolean inbounds(boolean[][] world, int r, int c) { 74 - 77
+4
+
+
+
+File4
+
+    public static void main(String[] pArgs) throws IOException 15 - 88
+14
+
+    public static void printgrid(int[][] aGrid) 90 - 110
+5
+
+    public static void checkmove(int[][] aGrid) 113 - 152
+19
+
+    public static boolean OverlapError(int[][] aGrid, int X,int Y) 155 - 163
+2
+
+    public static void GameOverProc() 165-168
+1
+
+
+
+File5
+
+   public static void main(String[] pArgs) throws IOException 9-59
+4
